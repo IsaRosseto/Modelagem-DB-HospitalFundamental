@@ -12,6 +12,6 @@ Um pequeno hospital local busca desenvolver um novo sistema que atenda melhor à
 
 <h3> A Modelagem abaixo contém os dados necessarios para uma simples consulta <h3>
 
-![diagrama hospital BD](https://user-images.githubusercontent.com/92994715/200135387-844569bb-98b0-4e9b-b989-9381826bb5c1.png)
+![DB-DADOS-HOSPITAL](https://user-images.githubusercontent.com/92994715/200135648-a5ee91eb-d1d4-44f6-aaf9-b943e51ce427.png)
 
 ##
