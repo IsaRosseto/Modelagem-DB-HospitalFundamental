@@ -29,7 +29,7 @@ Também é necessário controlar quais profissionais de enfermaria estarão resp
 
 A internação, obviamente, é vinculada a um paciente – que pode se internar mais de uma vez no hospital – e a um único médico responsável.
 
-<h3> Solução: </h3>
+[Solução](https://github.com/Diogo-Javax888/modelagem_hospital/blob/main/Hospital_Fundamental.sql)
 
 ![image](https://user-images.githubusercontent.com/92994715/210781481-4ec6d64b-4259-4c64-959a-afa625868748.png)
 
